@@ -33,26 +33,29 @@ export default {
         return{
             propaganda:[
                 {
+                    //GRADUAÇÃO
                     img:'/img/img-G.jpeg',
                     curso1:'Analise e Desenvolvimento de Sistemas',
                     curso2:'Banco de Dados',
                     curso3:'Engenharia de Software',
-                    curso4:'Gestão da Tecnologia da Informação',
+                    curso4:'Tecnologia da Informação',
                     curso5:'Marketing',
                     curso6:'Sistemas de Informação',
                     curso7:'Tecnologia de RH',
                 },
                 {
+                    //PÓS-GRADUAÇÃO
                     img:'/img/img-P.jpeg',
                     curso1:'Ciência de Dados',
-                    curso2:'Banco de Bados',
+                    curso2:'Banco de Dados',
                     curso3:'Engenharia de Software',
-                    curso4:'Desenvolvedor de aplicativos',
+                    curso4:'Desenvolvimento de App Movel',
                     curso5:'Business Intelligence',
                     curso6:'Jogos Digitais',
                     curso7:'Desenvolvimento Web'
                 },
                 {
+                    //CURSOS LIVRES
                     img:'/img/img-C.jpeg',
                     curso1:'Frontend',
                     curso2:'Backend',

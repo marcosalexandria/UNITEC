@@ -1,6 +1,6 @@
 <template>
     <section>
-        <img src="/img/midias.png" alt="">
+        <img src="/img/midias.png" alt="" class="container">
     </section>
 </template>
 
