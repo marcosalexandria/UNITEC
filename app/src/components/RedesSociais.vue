@@ -22,5 +22,6 @@ section{
 
 img{
     width: 200px;
+    cursor: pointer;
 }
 </style>
